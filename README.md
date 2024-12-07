@@ -4,7 +4,6 @@ This is a solution to the [Frontend Mentor - Social Links Profile challenge](htt
 
 ## Table of Contents
 
-- [Screenshot](#screenshot)
 - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
@@ -12,12 +11,9 @@ This is a solution to the [Frontend Mentor - Social Links Profile challenge](htt
   - [Continued Development](#continued-development)
 - [Acknowledgments](#acknowledgments)
 
-### Screenshot
-
-![Screenshot of the project](./assets/images/screenshot.png)
-
 ### Links
 
+- [Live URL](https://moldovia-peach.github.io/)
 - [Solution Repository](https://github.com/Moldovia-Peach/Social-Links-Profile)
 
 ## My Process
